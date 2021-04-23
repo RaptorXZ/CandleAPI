@@ -1,0 +1,75 @@
+{
+    "products": [
+      {
+        "id": 0,
+        "name": "Single Candle",
+        "description": "A single-wick candle, perfect for romantic dinners!",
+        "price": 10,
+        "image": "https://placeimg.com/640/480/any"
+      },
+      {
+        "id": 1,
+        "name": "Candle 10-pack",
+        "description": "10 single-wick candles, save 20kr!",
+        "price": 80,
+        "image": "https://placeimg.com/640/480/any"
+      },
+      {
+        "id": 2,
+        "name": "Block Candle",
+        "description": "A great choice for that long-lasting, cosy light!",
+        "price": 12,
+        "image": "https://placeimg.com/640/480/any"
+      },
+      {
+        "id": 3,
+        "name": "Block Candle 10-pack",
+        "description": "10 long-lasting candles, save 20kr!",
+        "price": 100,
+        "image": "https://placeimg.com/640/480/any"
+      },
+      {
+        "id": 4,
+        "name": "Candle Crown (Small, 6-wick)",
+        "description": "A small crown with 6 arms, a lovely gift!",
+        "price": 290,
+        "image": "https://placeimg.com/640/480/any"
+      },
+      {
+        "id": 5,
+        "name": "Candle Crown, Black (Small, 6-wick)",
+        "description": "A small, black crown with 6 arms, a lovely gift!",
+        "price": 290,
+        "image": "https://placeimg.com/640/480/any"
+      },
+      {
+        "id": 6,
+        "name": "Candle Crown, Red (Small, 6-wick)",
+        "description": "A small, red crown with 6 arms, a lovely gift!",
+        "price": 290,
+        "image": "https://placeimg.com/640/480/any"
+      },
+      {
+        "id": 7,
+        "name": "Candle Crown (Medium, 6-wick)",
+        "description": "A medium-sized crown with 6 arms, perfect for the dining table!",
+        "price": 450,
+        "image": "https://placeimg.com/640/480/any"
+      },
+      {
+        "id": 8,
+        "name": "Candle Crown (Large, 9-wick)",
+        "description": "A large crown with 9 arms, the ultimate candle!",
+        "price": 750,
+        "image": "https://placeimg.com/640/480/any"
+      },
+      {
+        "id": 9,
+        "name": "Trident Candle",
+        "description": "A 3-branch candle, as if cast by Poseidon himself!",
+        "price": 130,
+        "image": "https://placeimg.com/640/480/any"
+      }
+    ],
+    "cart": []
+  }

@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Patrik Jarnesand",
+  "license": "ISC",
+  "dependencies": {
+    "exp": "^57.2.1",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0"
+  }
+}
